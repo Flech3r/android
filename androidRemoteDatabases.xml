@@ -1,0 +1,25 @@
+<application>
+  <component name="AndroidRemoteDataBaseManager">
+    <databases>
+      <entry>
+        <key>
+          <db-key>
+            <option name="deviceId" value="SERIAL_NUMBER_LGD85510232398" />
+            <option name="packageName" value="com.kanzi.notelist" />
+            <option name="databaseName" value="NOTES_DB" />
+          </db-key>
+        </key>
+        <value>
+          <db-info>
+            <option name="modificationTime" value="1460554340" />
+            <option name="referringProjects">
+              <set>
+                <option value="$USER_HOME$/IdeaProjects/NoteList" />
+              </set>
+            </option>
+          </db-info>
+        </value>
+      </entry>
+    </databases>
+  </component>
+</application>
