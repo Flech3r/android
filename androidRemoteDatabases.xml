@@ -20,6 +20,25 @@
           </db-info>
         </value>
       </entry>
+      <entry>
+        <key>
+          <db-key>
+            <option name="deviceId" value="SERIAL_NUMBER_LGD85510232398" />
+            <option name="packageName" value="com.kanzi.fuelconsumption" />
+            <option name="databaseName" value="CARS_LIST" />
+          </db-key>
+        </key>
+        <value>
+          <db-info>
+            <option name="modificationTime" value="1466016879" />
+            <option name="referringProjects">
+              <set>
+                <option value="$USER_HOME$/Desktop/FuelConsumption" />
+              </set>
+            </option>
+          </db-info>
+        </value>
+      </entry>
     </databases>
   </component>
 </application>
